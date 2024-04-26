@@ -19,6 +19,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+
 https://github.com/CrunchyNumbers/git-homework
 
 ### Task 3
